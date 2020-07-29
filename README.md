@@ -1,4 +1,7 @@
-### Hello my dudes :alien:
+### Hello my dude, I'm leo :alien:
+
+
+<!-- <img src="https://i.imgur.com/5HtIigL.gif"/> -->
 
 <!--
 **leojaimesson/leojaimesson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
