@@ -3,7 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Leo%20Jaimesson-844bc9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leojaimesson/)](https://www.linkedin.com/in/leojaimesson/) 
 [![Gmail Badge](https://img.shields.io/badge/-leo.jaimesson@gmail.com-844bc9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leo.jaimesson@gmail.com)](mailto:leo.jaimesson@gmail.com)
 
-I am graduate in software engineering at federal university of ceará, currently working at Zup Innovation as a Web Development Analyst. 
+I am graduate in software engineering at federal university of ceará, currently working at Zup Innovation as a Web Development Analyst. I like to work
+in creative, collaborative, challenging and fun projects!
 
 
 **Languages and Tools 🚀**
