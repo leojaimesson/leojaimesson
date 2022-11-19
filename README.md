@@ -1,4 +1,4 @@
-### Hello, I’m Leo Jaimesson 🤙
+### Hello, I’m Leo Jaimesson 🤙 😎
 
 [![Linkedin Badge](https://img.shields.io/badge/-Leo%20Jaimesson-844bc9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leojaimesson/)](https://www.linkedin.com/in/leojaimesson/) 
 [![Gmail Badge](https://img.shields.io/badge/-leo.jaimesson@gmail.com-844bc9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leo.jaimesson@gmail.com)](mailto:leo.jaimesson@gmail.com)
